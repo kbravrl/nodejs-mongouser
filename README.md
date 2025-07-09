@@ -1,37 +1,28 @@
 # nodejs-mongouser
 
-This project is a basic CRUD (Create, Read, Update, Delete) API built using **Express.js** and **MongoDB**. It provides a RESTful API for managing user data.
+Bu **Express.js** ve **MongoDB** kullanılarak oluşturulmuş temel bir CRUD API uygulamasıdır. Kullanıcı verilerini yönetmek için bir RESTful API sağlar.
 
-## Features
+## Özellikler
 
-- **Create** a new user
-- **Read** user data (all users or a specific user by ID)
-- **Update** existing user data
-- **Delete** a user by ID
+- Yeni bir kullanıcı **oluştur**
+- Kullanıcı verilerini **getir** 
+- Mevcut kullanıcı verilerini **güncelle**
+- Kimliğe göre bir kullanıcıyı **sil**
 
-## Technologies Used
+## Kullanılan Teknolojiler
 
-- **Node.js**: JavaScript runtime environment
-- **Express.js**: Fast and minimal web framework for Node.js
-- **MongoDB**: NoSQL database for data storage
-- **Mongoose**: MongoDB object modeling tool
-- **dotenv**: Module to load environment variables from a `.env` file
+- **Node.js**: JavaScript çalışma zamanı ortamı
+- **Express.js**: Node.js için hızlı ve minimal web çerçevesi
+- **MongoDB**: Veri depolama için NoSQL veritabanı
+- **Mongoose**: MongoDB nesne modelleme aracı
+- **dotenv**: `.env` dosyasından ortam değişkenlerini yüklemek için modül
 
-## Prerequisites
+## Önkoşullar
 
-Ensure you have the following installed:
+Aşağıdakilerin kurulu olduğundan emin olun:
 
 - Node.js
 - MongoDB
-
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/crud-app.git
-    ```
-
 
 https://github.com/user-attachments/assets/4d5a6367-12ae-4c40-b358-2da5650b3e33
 
